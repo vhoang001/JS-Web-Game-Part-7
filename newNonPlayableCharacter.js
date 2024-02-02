@@ -62,7 +62,7 @@ function newNonPlayableCharacter(x, y) {
     return {
         element: element,
         walkWest: walkWest,
-        walkNorth: walkNorth,
+        walkNorth: walkNorth, 
         walkEast: walkEast,
         walkSouth: walkSouth,
         stop: stop
